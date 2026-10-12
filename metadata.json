@@ -1,0 +1,8 @@
+{
+  "name": "Cherry AI",
+  "description": "Smart, creative, and multilingual AI assistant powered by Gemini with custom personas, chat history, user profile, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

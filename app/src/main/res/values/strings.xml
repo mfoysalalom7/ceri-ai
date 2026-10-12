@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cherry AI</string>
+    <string name="channel_messages_name">AI Messages</string>
+    <string name="channel_messages_desc">Notifications for new AI responses and messages</string>
+    <string name="channel_social_name">Community &amp; Friends</string>
+    <string name="channel_social_desc">Friend requests and collaboration notifications</string>
+    <string name="channel_announcements_name">Announcements</string>
+    <string name="channel_announcements_desc">Important app updates and AI features</string>
+</resources>
